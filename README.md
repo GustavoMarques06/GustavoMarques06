@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 About Me<br><br>✨ Computer Science student focused on backend development<br><br>📚 I'm currently learning Java, Spring Boot, C#, Asp Net and backend development, focusing on building REST APIs<br><br>🎯 Goals: get my first opportunity as a backend intern/junior developer, improve my problem-solving skills and gain real-world experience</p>
+<p align="left">👋 About Me<br><br> Computer Science student focused on backend development<br><br> I'm currently learning Java, Spring Boot, C#, Asp Net and backend development, focusing on building REST APIs<br><br> Goals: get my first opportunity as a backend intern/junior developer, improve my problem-solving skills and gain real-world experience</p>
 
 ###
 
