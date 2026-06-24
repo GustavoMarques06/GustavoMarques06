@@ -1,18 +1,24 @@
-<h1 align="left">Hi 👋 I'm Gustavo!</h1>
+<h1 align="left">Hi, I'm Gustavo 👋</h1>
 
-###
+<p align="left">Computer Science student | Backend Developer in training</p>
 
-<p align="left">I am a computer science student</p>
+<h2 align="left">About Me</h2>
 
-###
+<p align="left">
+Backend-focused Computer Science student building expertise in Java, Spring Boot, C# and ASP.NET Core, with hands-on experience developing REST APIs.<br><br>
+Committed to writing clean, scalable code and applying software engineering best practices. Currently seeking my first opportunity as a backend intern or junior developer to contribute to real-world projects and accelerate my growth.<br><br>
+Open to collaboration and always looking to learn from experienced professionals.
+</p>
 
-<h2 align="left">About me</h2>
+---
 
-###
+<h2 align="left">Sobre mim</h2>
 
-<p align="left">👋 About Me<br><br> Computer Science student focused on backend development<br><br> I'm currently learning Java, Spring Boot, C#, Asp Net and backend development, focusing on building REST APIs<br><br> Goals: get my first opportunity as a backend intern/junior developer, improve my problem-solving skills and gain real-world experience</p>
-
-###
+<p align="left">
+Estudante de Ciência da Computação com foco em desenvolvimento backend, construindo experiência prática com Java, Spring Boot, C# e ASP.NET Core no desenvolvimento de APIs REST.<br><br>
+Comprometido com boas práticas de engenharia de software e código limpo e escalável. Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior backend para contribuir em projetos reais e evoluir profissionalmente.<br><br>
+Aberto a colaborações e sempre disposto a aprender com profissionais experientes.
+</p>
 
 <h2 align="left">I code with</h2>
 
